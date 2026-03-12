@@ -18,4 +18,4 @@ Analisar indicadores de vendas e desempenho de produtos e vendedores.
 
 ## Preview do Dashboard
 
-![Dashboard](dashboard-vendas.png)
+![Dashboard]([dashboard-vendas.png](https://github.com/Liv02Liv/dashboard-vendas-powerbi/blob/main/Dashboard%20Comercial%20%E2%80%93%20Indicadores%20de%20Vendas.png))
